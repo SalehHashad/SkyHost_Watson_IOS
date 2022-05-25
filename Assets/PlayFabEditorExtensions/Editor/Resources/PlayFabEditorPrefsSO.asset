@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: fateenappsaudia@gmail.com
+  DevAccountToken: zyjs8cin87fac6geqcd8nqn7nunej349rky7in7a67hobcydy6bqswt7cajmx8kxhxgj7f8do9skptnqxw4kxb4bdwk1op1jw1gy6fmbdkc5gn6y5qr7jx4es7bk65tfndkwgnuihupef6o1a6bkgem6xknfqh4hscfyuc5eb4sjmeaaa41bib8u55j4t1zqx8qiofre
+  SelectedStudio: FateenGameStudio
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 1
+  curSubMenuIdx: 0

@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 943aaace83989494f99cdb705ea72090
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rewardapp: {fileID: 11400000, guid: 3d077c88cae13c642940174c36cf57af, type: 2}
+  - regUsername: {instanceID: 0}
+  - regEmail: {instanceID: 0}
+  - regPassword: {instanceID: 0}
+  - regReferral: {instanceID: 0}
+  - regPanel: {instanceID: 0}
+  - loginUsername: {instanceID: 0}
+  - loginPassword: {instanceID: 0}
+  - loginPanel: {instanceID: 0}
+  - userInputPanel: {instanceID: 0}
+  - infoPanel: {instanceID: 0}
+  - infoUsername: {instanceID: 0}
+  - infoCreatedAt: {instanceID: 0}
+  - errorText: {instanceID: 0}
+  - ResetPasswordPanel: {instanceID: 0}
+  - requestedEmail: {instanceID: 0}
+  - Niknam: {instanceID: 0}
+  - pswdr: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

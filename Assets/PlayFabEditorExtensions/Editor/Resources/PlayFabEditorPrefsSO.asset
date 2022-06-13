@@ -13,11 +13,11 @@ MonoBehaviour:
   m_Name: PlayFabEditorPrefsSO
   m_EditorClassIdentifier: 
   DevAccountEmail: fateenappsaudia@gmail.com
-  DevAccountToken: 56933krerd585icgsxp4byfiujk8jep699mupubsr6ohzak55sxiii53zdu7ogfo19wkw76ou19zhh9xbc8xiif9p3nbstef58313epwjd4jarkimszookqac7ggtkstsz1r1cj67czctpc3kyd9o53hiy3py6wgj8y1t1xgsuqywqdakmookwr18smey1fn1ug9jxob
-  SelectedStudio: FateenGameStudio
+  DevAccountToken: qzc5bhyw17moe4w6p8d8nu8idwpcz5bhkma9qj1jsibum4zk4auncyim1w3yi8hrzwfwm356htu6a9pcg485upktpzyiwq7hkn99amphcdk6e1oo4wtgr5rak8kd387pkgz4wqakwgpe7q9ispt4zohgqagc1zbnbxgzieqysrryhx6prk7eoxnwso7y6ze5xsur5kfg
+  SelectedStudio: 
   SdkPath: Assets/PlayFabSDK
   EdExPath: 
   LocalCloudScriptPath: 
   PanelIsShown: 0
-  curMainMenuIdx: 1
+  curMainMenuIdx: 0
   curSubMenuIdx: 0

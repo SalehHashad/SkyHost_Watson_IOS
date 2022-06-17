@@ -35,6 +35,7 @@ public class PlayFabAccount : MonoBehaviour
     public GameObject cup1;
     public GameObject cup2;
     public GameObject cup3;
+    public GameObject newCup0 , newCup1, newCup2, newCup3;
     public GameObject TextChangeName;
 
     private void OnEnable()
@@ -54,14 +55,29 @@ public class PlayFabAccount : MonoBehaviour
         if(badgenbr!=0&& badgenbr >= 14)
         {
             cup1.SetActive(true);
+            newCup1.SetActive(true);
+            newCup0.SetActive(false);
+            newCup2.SetActive(false);
+            newCup3.SetActive(false);
+            CupNbr.text = "1/3";
         }
         if (badgenbr != 0 && badgenbr >= 28)
         {
             cup2.SetActive(true);
+            newCup2.SetActive(true);
+            newCup1.SetActive(false);
+            newCup0.SetActive(false);
+            newCup3.SetActive(false);
+            CupNbr.text = "2/3";
         }
         if (badgenbr != 0 && badgenbr >= 43)
         {
             cup3.SetActive(true);
+            newCup3.SetActive(true);
+            newCup1.SetActive(false);
+            newCup0.SetActive(false);
+            newCup2.SetActive(false);
+            CupNbr.text = "3/3";
         }
     }
 

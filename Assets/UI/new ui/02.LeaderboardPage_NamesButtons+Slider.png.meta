@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 8eb6d963076a53f4e85406424d416613
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8222738034055629020
+    second: 02.LeaderboardPage_NamesButtons+Slider_0
+  - first:
+      213: 4266114676213890257
+    second: 02.LeaderboardPage_NamesButtons+Slider_1
+  - first:
+      213: 5009974041120750561
+    second: 02.LeaderboardPage_NamesButtons+Slider_2
+  - first:
+      213: -2017965468372422559
+    second: 02.LeaderboardPage_NamesButtons+Slider_3
+  - first:
+      213: -7870561442115972367
+    second: 02.LeaderboardPage_NamesButtons+Slider_4
+  - first:
+      213: 4721730514214894266
+    second: 02.LeaderboardPage_NamesButtons+Slider_5
+  - first:
+      213: -8541708447095014889
+    second: 02.LeaderboardPage_NamesButtons+Slider_6
+  - first:
+      213: -5859890701935847471
+    second: 02.LeaderboardPage_NamesButtons+Slider_7
+  - first:
+      213: -7688786408785549420
+    second: 02.LeaderboardPage_NamesButtons+Slider_8
+  - first:
+      213: -2191046961320161753
+    second: 02.LeaderboardPage_NamesButtons+Slider_9
+  - first:
+      213: -1407499099069697217
+    second: 02.LeaderboardPage_NamesButtons+Slider_10
+  - first:
+      213: 1211001585913830373
+    second: 02.LeaderboardPage_NamesButtons+Slider_11
+  - first:
+      213: -933027941153805296
+    second: 02.LeaderboardPage_NamesButtons+Slider_12
+  - first:
+      213: 5186895659078352609
+    second: 02.LeaderboardPage_NamesButtons+Slider_13
+  - first:
+      213: 4939421331846469628
+    second: 02.LeaderboardPage_NamesButtons+Slider_14
+  - first:
+      213: 6855816699998038183
+    second: 02.LeaderboardPage_NamesButtons+Slider_15
+  - first:
+      213: -7904846798554956604
+    second: 02.LeaderboardPage_NamesButtons+Slider_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_0
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1470
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427350fe257f2ed80800000000000000
+      internalID: -8222738034055629020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1469
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc3fc6f1b8443b30800000000000000
+      internalID: 4266114676213890257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1306
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb3eeea8d0078540800000000000000
+      internalID: 5009974041120750561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_3
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1305
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16038a0291fbef3e0800000000000000
+      internalID: -2017965468372422559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1140
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f29ac3811626c290800000000000000
+      internalID: -7870561442115972367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1139
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abab6e8c2e4f68140800000000000000
+      internalID: 4721730514214894266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_6
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 526
+        width: 34
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ab2fb5c61c57980800000000000000
+      internalID: -8541708447095014889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 974
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7df70247c7daea0800000000000000
+      internalID: -5859890701935847471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_8
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 973
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976c768f71fb4590800000000000000
+      internalID: -7688786408785549420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_9
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 808
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e0058b566d791e0800000000000000
+      internalID: -2191046961320161753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_10
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 807
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33b442d60f877ce0800000000000000
+      internalID: -1407499099069697217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_11
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 637
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb14d6b6875ec010800000000000000
+      internalID: 1211001585913830373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_12
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 636
+        width: 900
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c630ae7083d03f0800000000000000
+      internalID: -933027941153805296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 471
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee716ede1e8bf740800000000000000
+      internalID: 5186895659078352609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_14
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 470
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf712b8f7895c8440800000000000000
+      internalID: 4939421331846469628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_15
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 305
+        width: 138
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8e29807f0c42f50800000000000000
+      internalID: 6855816699998038183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.LeaderboardPage_NamesButtons+Slider_16
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 304
+        width: 720
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc7f38e7b75c4290800000000000000
+      internalID: -7904846798554956604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

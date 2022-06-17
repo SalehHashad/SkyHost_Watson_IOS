@@ -1,0 +1,540 @@
+fileFormatVersion: 2
+guid: 2c8c45bbdedf6dc4b8bb81a97d376c28
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5222281649146458393
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_0
+  - first:
+      213: -3158696246421679354
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_1
+  - first:
+      213: 8248370910959043202
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_2
+  - first:
+      213: -2923766129664150687
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_3
+  - first:
+      213: 7465979211085207975
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_4
+  - first:
+      213: 8589841544581262340
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_5
+  - first:
+      213: -7671561794931057611
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_6
+  - first:
+      213: 3600343237634552350
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_7
+  - first:
+      213: -1683749924811832691
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_8
+  - first:
+      213: -6066684977414280137
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_9
+  - first:
+      213: -6956659071313516676
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_10
+  - first:
+      213: 7573835961209423562
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_11
+  - first:
+      213: 4986932550769093964
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_12
+  - first:
+      213: 1865272848292861678
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_13
+  - first:
+      213: 8514598774344808106
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_14
+  - first:
+      213: -8975541587244668168
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_15
+  - first:
+      213: -7542190431701284037
+    second: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_16
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_0
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1234
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee8599428ab687b0800000000000000
+      internalID: -5222281649146458393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6031da6df7e0a24d0800000000000000
+      internalID: -3158696246421679354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_2
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 1197
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282016b44a9187270800000000000000
+      internalID: 8248370910959043202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_3
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1208
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163bc032232bc67d0800000000000000
+      internalID: -2923766129664150687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 1208
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a95f29398c7c9760800000000000000
+      internalID: 7465979211085207975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1208
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ca8a5bf5f353770800000000000000
+      internalID: 8589841544581262340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_6
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1202
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c1da47133298590800000000000000
+      internalID: -7671561794931057611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_7
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1208
+        width: 114
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e12ffa4691df6f130800000000000000
+      internalID: 3600343237634552350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_8
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1208
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8200014d5e12a8e0800000000000000
+      internalID: -1683749924811832691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_9
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1202
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ce50dd72ececba0800000000000000
+      internalID: -6066684977414280137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_10
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1197
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77ebdebe6bf47f90800000000000000
+      internalID: -6956659071313516676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1197
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac687f6cdabab1960800000000000000
+      internalID: 7573835961209423562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_12
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1197
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4dac67abb4253540800000000000000
+      internalID: 4986932550769093964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1194
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee65dabd5c7c2e910800000000000000
+      internalID: 1865272848292861678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_14
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa67cc5197ee92670800000000000000
+      internalID: 8514598774344808106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_15
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa29891b78707380800000000000000
+      internalID: -8975541587244668168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 05.CupScreenPage_CupUnlockedBronzeButton+UnlockCupBronz_16
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 685
+        width: 1019
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b481a33c1c45790800000000000000
+      internalID: -7542190431701284037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

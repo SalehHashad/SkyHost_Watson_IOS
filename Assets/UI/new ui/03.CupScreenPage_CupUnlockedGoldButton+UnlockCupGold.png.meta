@@ -1,0 +1,492 @@
+fileFormatVersion: 2
+guid: e1bfd60859451594da9ddf0826c7e516
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5338145196140219210
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_0
+  - first:
+      213: 6942012629114917741
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_1
+  - first:
+      213: -44644513336413222
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_2
+  - first:
+      213: 828717144057532988
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_3
+  - first:
+      213: -6490157161246766004
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_4
+  - first:
+      213: 8285744521147729151
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_5
+  - first:
+      213: 73879035608507847
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_6
+  - first:
+      213: 5816315768492141012
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_7
+  - first:
+      213: -5311963766091386481
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_8
+  - first:
+      213: -9174786811202580859
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_9
+  - first:
+      213: 8406323304061387348
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_10
+  - first:
+      213: 5160278795348641736
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_11
+  - first:
+      213: 8594266287168286583
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_12
+  - first:
+      213: 5138119129192272235
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_13
+  - first:
+      213: 358310591695842758
+    second: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_0
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1202
+        width: 96
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4ba901a391be5b0800000000000000
+      internalID: -5338145196140219210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_1
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1208
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d639ba0b4bbf65060800000000000000
+      internalID: 6942012629114917741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1208
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3b9693d04616ff0800000000000000
+      internalID: -44644513336413222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_3
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1197
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3253de0ad1308b00800000000000000
+      internalID: 828717144057532988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1208
+        width: 51
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ccd6bb2745ee5a0800000000000000
+      internalID: -6490157161246766004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_5
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1208
+        width: 6
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff446a20eb0ecf270800000000000000
+      internalID: 8285744521147729151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_6
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1202
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c52bc96798760100800000000000000
+      internalID: 73879035608507847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_7
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1208
+        width: 114
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d92a721064b7b050800000000000000
+      internalID: 5816315768492141012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_8
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1208
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f817066491d1846b0800000000000000
+      internalID: -5311963766091386481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_9
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ec45c510c9ca080800000000000000
+      internalID: -9174786811202580859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_10
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452caa5a18249a470800000000000000
+      internalID: 8406323304061387348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_11
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1200
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c78cba593efc9740800000000000000
+      internalID: 5160278795348641736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_12
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77fe7cf57a7f44770800000000000000
+      internalID: 8594266287168286583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 1194
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b61152500244e4740800000000000000
+      internalID: 5138119129192272235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03.CupScreenPage_CupUnlockedGoldButton+UnlockCupGold_14
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 685
+        width: 1019
+        height: 575
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd6a41b599f8f400800000000000000
+      internalID: 358310591695842758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

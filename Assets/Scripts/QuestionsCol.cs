@@ -15,7 +15,7 @@ public class QuestionsCol : MonoBehaviour
     private void Awake()
     {
         ThiusBtn = this.gameObject;
-        //popuppanel = GameObject.Find("PopUpImage");
+        popuppanel = GameObject.Find("PopUpImage");
         ImagePopUp = popuppanel.GetComponentInChildren<RawImage>();
         ThisBtnImag = ThiusBtn.GetComponent<RawImage>().texture;
     }

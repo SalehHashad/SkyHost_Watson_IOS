@@ -1,0 +1,384 @@
+fileFormatVersion: 2
+guid: ed95d4ad63a79284088b1acd1bc32ab2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5915870027766222733
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_0
+  - first:
+      213: 808093051335290690
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_1
+  - first:
+      213: 7773814382505767194
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_2
+  - first:
+      213: 4033206178967717760
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_3
+  - first:
+      213: -1353447208961617204
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_4
+  - first:
+      213: 9068790304033886233
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_5
+  - first:
+      213: -8134066545939374484
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_6
+  - first:
+      213: -162596931044918655
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_7
+  - first:
+      213: -5750471599873235934
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_8
+  - first:
+      213: -842366143875866494
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_9
+  - first:
+      213: -5657259941145402508
+    second: 01.QuestionsPage_Back+Questions+Numbers+Confirm_10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1712
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8fc2665274691250800000000000000
+      internalID: 5915870027766222733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_1
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1062
+        width: 294
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24f2d46495ce63b00800000000000000
+      internalID: 808093051335290690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 328
+        width: 88
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1134135ef222eb60800000000000000
+      internalID: 7773814382505767194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_3
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 324
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0870843a6a3d8f730800000000000000
+      internalID: 4033206178967717760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_4
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 326
+        width: 86
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc2599f2fe6973de0800000000000000
+      internalID: -1353447208961617204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_5
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 324
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9105276abb0dadd70800000000000000
+      internalID: 9068790304033886233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_6
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 323
+        width: 87
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e15e5929dfd1f80800000000000000
+      internalID: -8134066545939374484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 325
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18abf73e3f65ebdf0800000000000000
+      internalID: -162596931044918655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 209
+        width: 87
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22465961c883230b0800000000000000
+      internalID: -5750471599873235934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_9
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 206
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280a67784705f44f0800000000000000
+      internalID: -842366143875866494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 01.QuestionsPage_Back+Questions+Numbers+Confirm_10
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 48
+        width: 516
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4732bf59e006d71b0800000000000000
+      internalID: -5657259941145402508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

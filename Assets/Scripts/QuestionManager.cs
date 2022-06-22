@@ -60,6 +60,7 @@ public class QuestionManager : MonoBehaviour
             }
         }
         ActiveQpanel = AllQpanel[IndexQ];
+        Debug.Log(IndexQ);
 
     }
 

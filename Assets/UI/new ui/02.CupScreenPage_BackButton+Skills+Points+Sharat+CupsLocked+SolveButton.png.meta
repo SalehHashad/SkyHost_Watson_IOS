@@ -1,7 +1,10 @@
 fileFormatVersion: 2
 guid: 9cfcc68379e9f5e45b4a3f62c56c4ad7
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6148536572894087394
+    second: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +44,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -113,7 +116,385 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1712
+        width: 152
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecc56055fca5543b0800000000000000
+      internalID: -5528913120996205362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1384
+        width: 306
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63bdd38e8efa6b20800000000000000
+      internalID: 3128592779213386607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_5
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1453
+        width: 180
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d01f4a51a8044370800000000000000
+      internalID: 8305773101875925209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_7
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1455
+        width: 185
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8f0703fac2b9b980800000000000000
+      internalID: -8522584235091488886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_18
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1468
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c138fb23a9cf1800800000000000000
+      internalID: 585408179235992003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_22
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1485
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144dbfc6cdf6991c0800000000000000
+      internalID: -4496439760440798143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_30
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 1455
+        width: 144
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba62db6d21844260800000000000000
+      internalID: 7080926546215725747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_32
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1342
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4101dcdf7b87991a0800000000000000
+      internalID: -6802273030534000620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 1326
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fceeba44aa4993d0800000000000000
+      internalID: -3199443990780908302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_36
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1234
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071cd50314c10a10800000000000000
+      internalID: 1873994505944569606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_37
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1234
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a660cca06a5b926a0800000000000000
+      internalID: -6473443264618035606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_38
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1234
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87401ec01420f7e0800000000000000
+      internalID: -1733846201942390897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_40
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1234
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2742275c91cbf71c0800000000000000
+      internalID: -4503674283474410382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_41
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1234
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc4fa37f44ff7d60800000000000000
+      internalID: 7890293694256860413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_42
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 1208
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad61d73142b1d08f0800000000000000
+      internalID: -572771735846447398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_47
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 688
+        width: 1019
+        height: 583
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ca4c1ead17237e0800000000000000
+      internalID: -1787240917208093563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_56
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 456
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246677dfdf6af52e0800000000000000
+      internalID: -2134804088540928446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 02.CupScreenPage_BackButton+Skills+Points+Sharat+CupsLocked+SolveButton_2
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 62
+        width: 640
+        height: 429
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e889dbcf6df35550800000000000000
+      internalID: 6148536572894087394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

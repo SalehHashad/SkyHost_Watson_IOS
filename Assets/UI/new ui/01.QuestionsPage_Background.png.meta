@@ -8,6 +8,9 @@ TextureImporter:
   - first:
       213: -5503266216084652157
     second: 01.QuestionsPage_Background_1
+  - first:
+      213: -2186677161684399388
+    second: 01.QuestionsPage_Background_2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -113,9 +116,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1457
+        y: 1445
         width: 1080
-        height: 463
+        height: 475
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -138,7 +141,7 @@ TextureImporter:
         width: 13
         height: 43
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []

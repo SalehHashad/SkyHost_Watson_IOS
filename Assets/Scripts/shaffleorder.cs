@@ -10,10 +10,14 @@ public class shaffleorder : MonoBehaviour
     private void Awake()
     {
         foreach (Transform child in transform)
-        {
             //print(child.gameObject.name);
             child.SetSiblingIndex(Random.Range(1,5));
-        }
+
+
+        foreach (Transform child in transform)
+            if (child.name.Contains("x"))
+                child.SetSiblingIndex((transform.childCount / 2) );
+
     }
 
     private void OnEnable()
